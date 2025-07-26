@@ -1,6 +1,6 @@
 #!/bin/bash
 
-ADMIN_WHATSAPP_NUMBER="081997715124"
+ADMIN_WHATSAPP_NUMBER="083155619441"
 
 WHATSAPP_FILE="/var/whatsapp_number.txt"
 LICENSE_FILE="/var/license.txt"
@@ -55,9 +55,9 @@ echo "╭╯━╰━┫╰━━┫┃┃╰┫╰━━╯┃"
 echo "╰━━━━┻━━━┻╯╰━┻━━━━╯"
 echo -e "\033[0m"
 echo -e "${RED}𝗢𝗪𝗡𝗘𝗥${RESET}${BLUE}𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥${RESET}"
-echo -e "\033[32mWHATSAPP ZERODEV : 081997715124\033[0m"
-echo -e "\033[31mTELEGRAM : t.me/ZerooHosting\033[0m"
-echo -e "${RED} © ZERO-DEVELOPER"
+echo -e "\033[32mWHATSAPP Fandirr : 083155619441\033[0m"
+echo -e "\033[31mTELEGRAM : t.me/BotzFandirr\033[0m"
+echo -e "${RED} © Fandirr-DEVELOPER"
 echo ""
 
 # Tambahkan bagian lain dari skrip Anda di sini jika diperlukan
